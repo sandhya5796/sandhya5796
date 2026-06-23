@@ -29,4 +29,9 @@
 * House Price Prediction (Linear Regression)
 * Student Management System (Python + SQL)
 
-📫 Connect with me on LinkedIn
+## Contact
+
+📧 Email: eedupugantisandhya@gmail.com
+
+💼 LinkedIn: https://www.linkedin.com/in/sandhya-eedupuganti/
+
