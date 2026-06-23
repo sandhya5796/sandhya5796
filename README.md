@@ -53,14 +53,11 @@
 
 | Project | Description | Tech Used |
 |---|---|---|
-| 🌸 **[Iris Flower Classification](#)** | Classifies iris flower species using the K-Nearest Neighbors algorithm | `Python` `Scikit-learn` `Pandas` |
-| 🏠 **[House Price Prediction](#)** | Predicts housing prices using a Linear Regression model | `Python` `Scikit-learn` `NumPy` |
-| 🗃 **[Student Management System](#)** | A system to manage student records with full CRUD functionality | `Python` `SQL` |
-| 🛒 **Instagram E-Commerce Integration** | Added e-commerce functionality to an Instagram-based shopping flow | `UI/UX` `Figma` |
+| 🌸 **[Iris Flower Classification](https://github.com/sandhya5796/Iris-Flower-Classification)** | Classifies iris flower species using the K-Nearest Neighbors algorithm | `Python` `Scikit-learn` `Pandas` |
+| 🏠 **[House Price Prediction](https://github.com/sandhya5796/House-Price-Prediction)** | Predicts housing prices using a Linear Regression model | `Python` `Scikit-learn` `NumPy` |
+| 🗃 **[Student Management System](https://github.com/sandhya5796/student-management-system)** | A system to manage student records with full CRUD functionality | `Python` `SQL` |
+| 🛒 **[Instagram E-Commerce Integration](https://github.com/sandhya5796/instagram-ecommerce-uiux)** | Added e-commerce functionality to an Instagram-based shopping flow | `UI/UX` `Figma` |
 
-> 💡 Tip: Replace the `#` links above with your actual GitHub repo URLs so visitors can click straight through to the code.
-
----
 
 ### 📊 GitHub Stats
 
