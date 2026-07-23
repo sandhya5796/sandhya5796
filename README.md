@@ -1,53 +1,130 @@
 <h1 align="center">Hi 👋, I'm Eedupuganti Divya Sai Sandhya</h1>
 
 <h3 align="center">
-Final-Year Computer Science Student | Python Developer | Machine Learning Enthusiast | Aspiring Software Engineer
+Final-Year Computer Science Engineering Student | Python Developer | Machine Learning Enthusiast | Aspiring Software Engineer
 </h3>
+
+<p align="center">
+Passionate about building AI-powered applications, solving real-world problems using Machine Learning, and developing scalable web applications.
+</p>
 
 ---
 
-## 👩‍💻 About Me
+# 👩‍💻 About Me
 
-- 🎓 Final-year B.Tech student in Computer Science & Engineering (IoT & Cyber Security including Blockchain)
-- 💻 Passionate about Software Development, Machine Learning, and AI
-- 🌱 Currently improving my skills in Java, Python, Flask, SQL, and Software Engineering
-- 🚀 Interested in Software Development Engineer (SDE) and SDET roles
-- 🤝 Open to internships and entry-level software engineering opportunities
+🎓 Final-Year B.Tech Student
+
+🏫 Sasi Institute of Technology and Engineering
+
+💻 Passionate about Software Development, Machine Learning, Artificial Intelligence, and Data Science.
+
+🌱 Currently learning
+- Java
+- Data Structures & Algorithms
+- Software Engineering
+- Backend Development
+
+🎯 Looking for
+- Software Engineer Intern
+- SDET Intern
+- Python Developer
+- Machine Learning Engineer Intern
 
 ---
 
 # 🚀 Featured Project
 
-# 🛍️ Product Review Analysis & Smart Recommendation System
+## 🛍️ Product Review Analysis & Smart Recommendation System
 
-An AI-powered web application that analyzes customer reviews, predicts sentiment, and recommends similar products using Machine Learning and Natural Language Processing.
+An AI-powered e-commerce web application that predicts customer review sentiment and recommends products using Machine Learning and NLP.
 
-### 🌐 Live Demo
+### ✨ Features
 
-👉 **https://sandhya57.pythonanywhere.com/**
-
-### 💻 GitHub Repository
-
-👉 **https://github.com/sandhya5796/Product-Review-Analysis-System**
-
-### ⭐ Key Features
-
-- 🔍 Customer Review Sentiment Analysis
-- 😊 Predict Positive, Neutral & Negative Sentiment
-- 🤖 Smart Product Recommendation System
-- 📊 Machine Learning using Support Vector Machine (SVM)
-- 📈 TF-IDF Vectorization
-- 🎯 Cosine Similarity Recommendation Engine
-- 🌐 Flask Web Application
-- 📱 Responsive UI
+- Customer Review Sentiment Analysis
+- Positive, Neutral & Negative Prediction
+- Product Recommendation System
+- Machine Learning using SVM
+- TF-IDF Vectorization
+- Cosine Similarity Recommendation Engine
+- Flask Web Application
+- Responsive UI
 
 ### 🛠 Tech Stack
 
-Python • Flask • HTML • CSS • JavaScript • Scikit-learn • Pandas • NumPy • Git • GitHub
+Python • Flask • HTML • CSS • JavaScript • Scikit-learn • Pandas • NumPy • Git
+
+🌐 **Live Demo**
+
+https://sandhya57.pythonanywhere.com/
+
+💻 **Repository**
+
+https://github.com/sandhya5796/Product-Review-Analysis-System
 
 ---
 
-## 💼 Technical Skills
+# 💼 Other Projects
+
+## 🏠 House Price Prediction
+
+Machine Learning model developed using Linear Regression to predict housing prices.
+
+**Tech Stack**
+
+- Python
+- Pandas
+- NumPy
+- Scikit-learn
+- Matplotlib
+
+---
+
+## 🌸 Iris Flower Classification
+
+Machine Learning project that classifies Iris flowers using the K-Nearest Neighbors (KNN) algorithm.
+
+**Tech Stack**
+
+- Python
+- Pandas
+- Scikit-learn
+- KNN
+
+---
+
+## 🎬 Movie Recommendation System
+
+A recommendation system that suggests similar movies using content-based filtering techniques.
+
+**Tech Stack**
+
+- Python
+- Pandas
+- Scikit-learn
+- Cosine Similarity
+
+---
+
+## 🎨 UI/UX Design Projects
+
+Designed responsive user interfaces and prototypes using Figma.
+
+Projects include:
+
+- E-commerce Homepage
+- Login & Signup UI
+- Landing Pages
+- Mobile App Interfaces
+
+**Tools**
+
+- Figma
+- FigJam
+- Canva
+
+---
+
+# 🛠 Technical Skills
 
 ### Programming Languages
 
@@ -55,11 +132,11 @@ Python • Flask • HTML • CSS • JavaScript • Scikit-learn • Pandas •
 - Python
 - SQL
 - JavaScript
-
-### Web Technologies
-
 - HTML5
 - CSS3
+
+### Frameworks
+
 - Flask
 
 ### Machine Learning
@@ -72,6 +149,10 @@ Python • Flask • HTML • CSS • JavaScript • Scikit-learn • Pandas •
 - KNN
 - Linear Regression
 
+### Databases
+
+- MySQL
+
 ### Tools
 
 - Git
@@ -82,7 +163,7 @@ Python • Flask • HTML • CSS • JavaScript • Scikit-learn • Pandas •
 
 ---
 
-## 📜 Certifications
+# 📜 Certifications
 
 - Cisco Python Essentials 1
 - Microsoft Azure AI Language Services
@@ -92,7 +173,7 @@ Python • Flask • HTML • CSS • JavaScript • Scikit-learn • Pandas •
 
 ---
 
-## 📊 GitHub Stats
+# 📈 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sandhya5796&show_icons=true&theme=tokyonight)
 
@@ -100,14 +181,35 @@ Python • Flask • HTML • CSS • JavaScript • Scikit-learn • Pandas •
 
 ---
 
-## 📫 Connect With Me
+# 🏆 Achievements
 
-💼 LinkedIn: https://www.linkedin.com/in/YOUR-LINKEDIN-URL
-
-💻 GitHub: https://github.com/sandhya5796
-
-📧 Email: YOUR_EMAIL@example.com
+- Built an AI-powered Product Review Analysis & Recommendation System.
+- Developed multiple Machine Learning projects using Python.
+- Completed industry-recognized certifications in Python, SQL, and Microsoft Azure AI.
+- Maintained a CGPA of 8.87.
 
 ---
 
-⭐ Thank you for visiting my profile!
+# 🌱 Currently Learning
+
+- Java
+- Data Structures & Algorithms
+- Software Testing
+- REST APIs
+- System Design Fundamentals
+
+---
+
+# 📫 Connect with Me
+
+📧 Email: your-email@example.com
+
+💼 LinkedIn:
+https://www.linkedin.com/in/your-linkedin-profile
+
+💻 GitHub:
+https://github.com/sandhya5796
+
+---
+
+⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
