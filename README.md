@@ -1,87 +1,113 @@
-<h1 align="center">Hi there, I'm Sandhya 👋</h1>
+<h1 align="center">Hi 👋, I'm Eedupuganti Divya Sai Sandhya</h1>
 
-<h3 align="center">🎓 CIC Student (IoT & Cyber Security) | 💻 Aspiring ML Engineer & Software Developer</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Learning+Machine+Learning+%40+Huebits+Tech;Building+with+Python+%2B+SQL;UI%2FUX+Designer+%7C+Figma+Enthusiast;Always+Curious%2C+Always+Learning" alt="Typing SVG" />
-</p>
+<h3 align="center">
+Final-Year Computer Science Student | Python Developer | Machine Learning Enthusiast | Aspiring Software Engineer
+</h3>
 
 ---
 
-### 🌱 Currently Learning
+## 👩‍💻 About Me
 
-- 📊 Data Preprocessing
-- 📈 Linear Regression
-- 🔢 Logistic Regression
-- 🤖 Machine Learning Fundamentals *(at Huebits Tech)*
-
----
-
-### 🛠 Tech Stack & Skills
-
-**Languages**
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
-
-**Machine Learning & Data**
-
-<p align="left">
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-</p>
-
-**Design & Tools**
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/UI%2FUX_Design-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</p>
+- 🎓 Final-year B.Tech student in Computer Science & Engineering (IoT & Cyber Security including Blockchain)
+- 💻 Passionate about Software Development, Machine Learning, and AI
+- 🌱 Currently improving my skills in Java, Python, Flask, SQL, and Software Engineering
+- 🚀 Interested in Software Development Engineer (SDE) and SDET roles
+- 🤝 Open to internships and entry-level software engineering opportunities
 
 ---
 
-### 📂 Featured Projects
+# 🚀 Featured Project
 
-| Project | Description | Tech Used |
-|---|---|---|
-| 🌸 **[Iris Flower Classification](https://github.com/sandhya5796/Iris-Flower-Classification)** | Classifies iris flower species using the K-Nearest Neighbors algorithm | `Python` `Scikit-learn` `Pandas` |
-| 🏠 **[House Price Prediction](https://github.com/sandhya5796/House-Price-Prediction)** | Predicts housing prices using a Linear Regression model | `Python` `Scikit-learn` `NumPy` |
-| 🗃 **[Student Management System](https://github.com/sandhya5796/student-management-system)** | A system to manage student records with full CRUD functionality | `Python` `SQL` |
-| 🛒 **[Instagram E-Commerce Integration](https://github.com/sandhya5796/instagram-ecommerce-uiux)** | Added e-commerce functionality to an Instagram-based shopping flow | `UI/UX` `Figma` |
+# 🛍️ Product Review Analysis & Smart Recommendation System
 
+An AI-powered web application that analyzes customer reviews, predicts sentiment, and recommends similar products using Machine Learning and Natural Language Processing.
 
-### 📊 GitHub Stats
+### 🌐 Live Demo
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sandhya5796&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=sandhya5796&theme=tokyonight&hide_border=true" />
-</p>
+👉 **https://sandhya57.pythonanywhere.com/**
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandhya5796&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+### 💻 GitHub Repository
 
+👉 **https://github.com/sandhya5796/Product-Review-Analysis-System**
 
-### 📫 Connect With Me
+### ⭐ Key Features
 
-<p align="left">
-  <a href="mailto:eedupugantisandhya@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/sandhya-eedupuganti/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+- 🔍 Customer Review Sentiment Analysis
+- 😊 Predict Positive, Neutral & Negative Sentiment
+- 🤖 Smart Product Recommendation System
+- 📊 Machine Learning using Support Vector Machine (SVM)
+- 📈 TF-IDF Vectorization
+- 🎯 Cosine Similarity Recommendation Engine
+- 🌐 Flask Web Application
+- 📱 Responsive UI
+
+### 🛠 Tech Stack
+
+Python • Flask • HTML • CSS • JavaScript • Scikit-learn • Pandas • NumPy • Git • GitHub
 
 ---
 
-<p align="center"><i>⭐️ Open to internships and collaborative projects in Machine Learning and UI/UX Design.</i></p>
+## 💼 Technical Skills
+
+### Programming Languages
+
+- Java
+- Python
+- SQL
+- JavaScript
+
+### Web Technologies
+
+- HTML5
+- CSS3
+- Flask
+
+### Machine Learning
+
+- Scikit-learn
+- Pandas
+- NumPy
+- TF-IDF
+- SVM
+- KNN
+- Linear Regression
+
+### Tools
+
+- Git
+- GitHub
+- VS Code
+- Google Colab
+- Jupyter Notebook
+
+---
+
+## 📜 Certifications
+
+- Cisco Python Essentials 1
+- Microsoft Azure AI Language Services
+- Microsoft Azure AI Speech Services
+- SQL Bootcamp
+- Machine Learning Internship
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sandhya5796&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sandhya5796&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Connect With Me
+
+💼 LinkedIn: https://www.linkedin.com/in/YOUR-LINKEDIN-URL
+
+💻 GitHub: https://github.com/sandhya5796
+
+📧 Email: YOUR_EMAIL@example.com
+
+---
+
+⭐ Thank you for visiting my profile!
