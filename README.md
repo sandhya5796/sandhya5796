@@ -202,10 +202,8 @@ Projects include:
 
 # 📫 Connect with Me
 
-📧 Email: your-email@example.com
-
 💼 LinkedIn:
-https://www.linkedin.com/in/your-linkedin-profile
+https://www.linkedin.com/in/sandhya-eedupuganti/
 
 💻 GitHub:
 https://github.com/sandhya5796
