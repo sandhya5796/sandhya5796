@@ -76,22 +76,21 @@ An **AI-powered Flask web application** that predicts customer review sentiment 
 ### 🏠 House Price Prediction
 Predicts real estate prices using regression-based Machine Learning models trained on historical housing data.
 **Tech Stack:** Python, Scikit-learn, Pandas, NumPy, Linear Regression
-🔗 Repository: `[Add Repository Link]`
+🔗 Repository: `[https://github.com/sandhya5796/House-Price-Prediction]`
 
 ### 🎬 Movie Recommendation System
 A content-based recommendation engine that suggests movies to users based on similarity in genres, cast, and descriptions.
 **Tech Stack:** Python, Pandas, Cosine Similarity, NLP
-🔗 Repository: `[Add Repository Link]`
 
 ### 🌸 Iris Flower Classification
 A classic ML classification project that predicts iris flower species using KNN and other supervised learning algorithms.
 **Tech Stack:** Python, Scikit-learn, KNN, Pandas
-🔗 Repository: `[Add Repository Link]`
+🔗 Repository: `[https://github.com/sandhya5796/Iris-Flower-Classification]`
 
 ### 🎨 UI/UX Design Projects
 A collection of design-focused front-end projects emphasizing clean layouts, usability, and responsive design principles.
 **Tech Stack:** HTML, CSS, JavaScript
-🔗 Repository: `[Add Repository Link]`
+🔗 Repository: `[https://github.com/sandhya5796/instagram-ecommerce-uiux]`
 
 ---
 
